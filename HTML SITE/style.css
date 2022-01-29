@@ -1,0 +1,29 @@
+#main {
+  width:1500px;
+  height:700px;
+  background-color:white;
+
+}
+#header{
+    width:1500px;
+    height:100px;
+    background-color:black;
+}
+#middle{
+  width:1400px;
+  height:400px;
+  background-color:white;
+  float:left;
+}
+#mid1{
+  width:400px;
+  height:400px;
+  background-color:white;
+  float: left;
+}
+#footer{
+  width:1400px;
+  height:150px;
+  background-color:white;
+
+}
